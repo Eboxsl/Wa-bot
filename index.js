@@ -25,7 +25,7 @@ const request = require('@cypress/request');
                 const session = makeWASocket({
                     logger: pino({ level: 'fatal' }),
             printQRInTerminal: true,
-            browser: ['Jithula', 'safari', '1.0.0'],
+            browser: ['Nethindu ', 'safari', '1.0.0'],
             fireInitQueries: false,
             shouldSyncHistoryMessage: false,
             downloadHistory: false,
@@ -65,9 +65,9 @@ ${data.desc}
 ${data.time}
 ●━━━━━━━━━━━━━━━━━━━━━●
 
-🗞️ *News From hirunews.lk*
+🗞️ *News From Derana.lk*
 
-🔗 *Created By Jithula Bhasitha*
+🔗 *Created By Nethindu Thaminda *
 
 📍 *Team Bit X*
 
